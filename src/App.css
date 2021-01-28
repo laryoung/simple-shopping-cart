@@ -1,0 +1,44 @@
+.center {
+    display:"flex",
+    
+    
+}
+
+.product-desc h3 {
+  
+          color: #0b0633,
+         
+     
+ }
+
+ .product-desc .pointer {cursor: pointer;}
+
+ .MuiTypography-root .MuiCardHeader-subheader
+  .MuiTypography-body1 
+  .MuiTypography-colorTextSecondary 
+  .MuiTypography-displayBlock{
+
+   color: #ffffff
+ }
+
+ .MuiTypography-colorTextSecondary {
+    color: rbg(255, 255, 255)
+ }
+
+ /* Rating */
+.rating span {
+  color: #ffb901;
+  font-size: 1.8rem;
+  margin: 0.1rem;
+}
+.rating span:last-child {
+  color: #444444;
+  font-size: 1.4rem;
+}
+a > .rating > span:last-child {
+  color: #0000ff;
+}
+
+.MuiTypography-body1{
+  font-size: '0.5rem';
+}
